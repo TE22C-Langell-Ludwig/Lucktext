@@ -1,6 +1,4 @@
-﻿using System;
-
-string Spel = "";
+﻿string Spel = "";
 string FavMat = "";
 string Skola = "";
 
@@ -22,4 +20,3 @@ Console.WriteLine("vi är ju typ nästan samma person");
 
 Console.WriteLine("nu måste jag dra dock, Ha en bra dag");
 Console.ReadLine();
-

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj": {}
+    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj": {
+    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj",
+        "projectUniqueName": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj",
         "projectName": "jsdjsdjsfd",
-        "projectPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj",
+        "projectPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\jsdjsdjsfd.csproj",
         "packagesPath": "C:\\Users\\ludwig.langell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\obj\\",
+        "outputPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\jikhwefnkwsdfni\\jsdjsdjsfd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
