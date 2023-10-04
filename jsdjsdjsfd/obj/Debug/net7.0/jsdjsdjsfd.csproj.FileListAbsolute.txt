@@ -1,0 +1,14 @@
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\bin\Debug\net7.0\jsdjsdjsfd.exe
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\bin\Debug\net7.0\jsdjsdjsfd.deps.json
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\bin\Debug\net7.0\jsdjsdjsfd.runtimeconfig.json
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\bin\Debug\net7.0\jsdjsdjsfd.dll
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\bin\Debug\net7.0\jsdjsdjsfd.pdb
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.AssemblyInfoInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.AssemblyInfo.cs
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.csproj.CoreCompileInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.dll
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\refint\jsdjsdjsfd.dll
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.pdb
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\jsdjsdjsfd.genruntimeconfig.cache
+C:\Users\ludwig.langell\Documents\Programmering\jikhwefnkwsdfni\jsdjsdjsfd\obj\Debug\net7.0\ref\jsdjsdjsfd.dll

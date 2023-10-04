@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "jsdjsdjsfd/1.0.0": {
+        "runtime": {
+          "jsdjsdjsfd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jsdjsdjsfd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
